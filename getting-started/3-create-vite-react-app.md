@@ -8,13 +8,16 @@ You may need nodejs to create a react app. Personaly I recommend you to use a ve
 
 ## Create your project
 
-> npm create vite@latest
-
+```sh 
+npm create vite@latest
+```
 It will ask you the **project name** and **template** to be used.
 
 ## Run your project
 
-> npm run dev
+```sh 
+npm run dev
+```
 
 It will hot refresh your app in every change.
 
