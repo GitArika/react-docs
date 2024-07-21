@@ -19,7 +19,7 @@ function Post(props) {
 export Post
 ```
 
-Your components can be used inside other components
+Sharing data between components using props
 > **App.jsx**
 
 ```js
