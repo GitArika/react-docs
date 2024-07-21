@@ -8,7 +8,9 @@ Builders and compilers enable your code to be compatible with multiple versions 
 
 Tools that convert your code from a format to another, downgrading features that is not supported or aiming older versions.
 
-The most used compilers is Babel.
+The most used compilers:
+
+- Babel.
 
 ## Bundlers
 
