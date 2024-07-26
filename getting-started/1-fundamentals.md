@@ -21,4 +21,4 @@ SPA or Single Page Application means that the server is not responsible to gener
 
 ### SSR - Server Side Rendering
 
-SSR or Server Side Rendering means that the server is responsible to run all code including database searchs, webserver requests before delivery the HTML, CSS and JS that comes ready to use in client side. Usually that's the most used pattern in legacy webapps. Since the serve always respond an webpage ready to use it's required to implement search engine optimizations because it can be indexed by search engines such as google.
+SSR or Server Side Rendering means that the server is responsible to run all code including database searchs, webserver requests and renders the page before delivery the HTML, CSS and JS that comes ready to be used by the client. Usually that's the most used pattern in legacy webapps. Since the server always respond an webpage ready to be used, it allows you to implement search engine optimization and better indexing in search engines such as google.
