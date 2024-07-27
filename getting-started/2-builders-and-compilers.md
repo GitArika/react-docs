@@ -2,7 +2,7 @@
 
 ## About
 
-Builders and compilers enable your code to be compatible with multiple versions and that's required for running your app in old browsers.
+Builders and compilers can convert your code to backwards version. This enable compatibility with multiple browsers, even if they are running at an outdated version.
 
 ## Compilers
 
@@ -10,7 +10,7 @@ Tools that convert your code from a format to another, downgrading features that
 
 The most used compilers:
 
-- Babel.
+- Babel
 
 ## Bundlers
 
